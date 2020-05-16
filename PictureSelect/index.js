@@ -34,5 +34,4 @@ const PictureSelect = ({pictures, value, onChange }) => (
         }
     </div>
 )
-
 export default PictureSelect;
